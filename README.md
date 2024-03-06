@@ -36,4 +36,6 @@ Aim of this project is to develop a remote rehabilitation physiotherapy program 
 
 ## demo (Click on logo to watch the video):
 
-[![image](https://github.com/AishaIbrahum/Advanced-Database-Design-and-Implementation-of-a-Blood-Bank-Management-System/assets/143902740/2c8dde4e-597d-48e7-b291-15f70a7b7b21)](https://youtu.be/Vh7x3JBNJgM?si=VtswpqpoRl7VpBzi)
+
+[<img src="https://github.com/AishaIbrahum/Advanced-Database-Design-and-Implementation-of-a-Blood-Bank-Management-System/assets/143902740/2c8dde4e-597d-48e7-b291-15f70a7b7b21" width= "50%">](https://youtu.be/Vh7x3JBNJgM?si=VtswpqpoRl7VpBzi)
+
